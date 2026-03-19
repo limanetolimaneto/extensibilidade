@@ -1,4 +1,4 @@
-# Extensibilidade: PHP DI Container & Document Workflow
+# Extensibility: PHP DI Container & Document Workflow
 
 A PHP-based command-line application that demonstrates **Dependency Injection (DI)**, **Reflection API**, and the **Strategy Pattern**. This project simulates a logistics workflow, processing data from Freights to Insurance documents while maintaining a decoupled and extensible architecture.
 
@@ -30,7 +30,7 @@ The project is divided into specialized layers:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com
+    git clone https://github.com/limanetolimaneto/extensibilidade
     cd extensibilidade
     ```
 
