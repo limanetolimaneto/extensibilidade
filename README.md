@@ -30,8 +30,8 @@ The project is divided into specialized layers:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/limanetolimaneto/extensibilidade
-    cd extensibilidade
+    git clone https://github.com/limanetolimaneto/extensibility
+    cd extensibility
     ```
 
 2.  **Configure Environment**:
@@ -45,4 +45,4 @@ The project is divided into specialized layers:
     ```
 
 ## 📝 Author
-**Lima Neto** - [GitHub](https://github.com)
+**Lima Neto** - [GitHub](https://github.com/limanetolimaneto)
